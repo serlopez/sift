@@ -30,7 +30,7 @@ body {
     margin-top: 20px;
 }
 
-.button {
+.btn {
     background-color: hsl(200, 100%, 50%);
     border: solid 1px hsl(200, 100%, 30%);
     border-radius: 5px;
@@ -39,6 +39,6 @@ body {
     outline: none;
 }
 
-.button:hover {
+.btn:hover {
     border-color: black;
 }
